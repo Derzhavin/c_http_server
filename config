@@ -1,0 +1,5 @@
+host: 192.168.35.73
+port: 5000
+assets: public
+version: HTTP/1.1
+index: index.html
